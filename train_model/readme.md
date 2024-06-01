@@ -1,1 +1,0 @@
-lưu file train
